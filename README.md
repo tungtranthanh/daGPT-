@@ -43,9 +43,6 @@
 - Pygwalker là một công cụ miễn phí và hữu ích thay thế cho Tableau và có thể được nhúng vào ứng dụng của chúng ta.
 - Bằng cách làm theo hướng dẫn này, mọi người có thể tự xây dựng công cụ phân tích dữ liệu của riêng mình, tận dụng sức mạnh của LLMs và Streamlit.
 
-## Liên Hệ
-
-Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, hãy để lại bình luận dưới video hoặc liên hệ với mình qua email: [datasciencelab.ai@gmail.com].
 
 ## Liên Kết Hữu Ích
 
